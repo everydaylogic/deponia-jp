@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.89,0:00:10.40,Default,,0000,0000,0000,,勇者が冒険に旅立ち、敵陣に乗り込む前には
+Dialogue: 0,0:00:10.60,0:00:13.67,Default,,0000,0000,0000,,得体の知れない「清めの儀式」を受けるのが
+Dialogue: 0,0:00:13.82,0:00:17.17,Default,,0000,0000,0000,,物語の定番ルールなんだ。そういう決まりなのさ。
+Dialogue: 0,0:00:17.36,0:00:20.41,Default,,0000,0000,0000,,調べてみな、間違いないから！
+Dialogue: 0,0:00:20.69,0:00:23.81,Default,,0000,0000,0000,,最高に綺麗に磨き上げられ、宿敵の姿に変装して、
+Dialogue: 0,0:00:23.98,0:00:27.33,Default,,0000,0000,0000,,彼はゴールの後押しを受け、あえて危険を冒すことにした。
+Dialogue: 0,0:00:27.55,0:00:30.34,Default,,0000,0000,0000,,古い友人たちを置き去りにしなきゃならなかったのは、基本あいつらの自業自得だ！
+Dialogue: 0,0:00:30.61,0:00:34.32,Default,,0000,0000,0000,,前進あるのみ、立ち止まるな！ ブレーキなんて弱虫の道具だぜ。
+Dialogue: 0,0:00:34.53,0:00:37.52,Default,,0000,0000,0000,,ハッザー！ ブレーキなんて弱虫の道具だぜ！

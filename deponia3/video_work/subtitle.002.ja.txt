@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.76,0:00:01.80,Default,,0000,0000,0000,,いやあああああ！
+Dialogue: 0,0:00:02.03,0:00:02.64,Default,,0000,0000,0000,,えっ？
+Dialogue: 0,0:00:04.63,0:00:07.58,Default,,0000,0000,0000,,な、何？私に何が起きているの？
+Dialogue: 0,0:00:07.80,0:00:09.19,Default,,0000,0000,0000,,ミス・ゴール！ しっかりしてください！
+Dialogue: 0,0:00:09.24,0:00:12.49,Default,,0000,0000,0000,,あなたはアミタールナトリウムを過剰投与されました。
+Dialogue: 0,0:00:12.65,0:00:14.27,Default,,0000,0000,0000,,意識を保って。
+Dialogue: 0,0:00:14.44,0:00:14.84,Default,,0000,0000,0000,,聞こえていますか？
+Dialogue: 0,0:00:14.94,0:00:16.05,Default,,0000,0000,0000,,ここにいてください！
+Dialogue: 0,0:00:16.19,0:00:18.55,Default,,0000,0000,0000,,んんん？ いいえ。
+Dialogue: 0,0:00:18.76,0:00:21.56,Default,,0000,0000,0000,,え？ なぜです？ ゴール！！！
+Dialogue: 0,0:00:21.71,0:00:24.05,Default,,0000,0000,0000,,だって私はルーファスを愛しているから。
+Dialogue: 0,0:00:24.39,0:00:25.25,Default,,0000,0000,0000,,だめだ！ やめろ！
+Dialogue: 0,0:00:26.32,0:00:26.87,Default,,0000,0000,0000,,衛兵！
+Dialogue: 0,0:00:26.92,0:00:31.05,Default,,0000,0000,0000,,この役立たずのゴミ箱を今すぐ俺の目の前から消せ！
+Dialogue: 0,0:00:31.08,0:00:33.04,Default,,0000,0000,0000,,船外へ放り出せ！ 直ちにだ！
+Dialogue: 0,0:00:33.05,0:00:35.11,Default,,0000,0000,0000,,俺は何てことをしたんだ、ゴール？？？
+Dialogue: 0,0:00:35.27,0:00:36.63,Default,,0000,0000,0000,,俺は何てことをしてしまったんだあああああ！！！

@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.12,0:00:00.93,Default,,0000,0000,0000,,うわあああああああああああああああああああああああああああん……
+Dialogue: 0,0:00:01.05,0:00:03.36,Default,,0000,0000,0000,,いやああああああああ！
+Dialogue: 0,0:00:03.54,0:00:04.16,Default,,0000,0000,0000,,そんな。
+Dialogue: 0,0:00:14.25,0:00:15.71,Default,,0000,0000,0000,,ほら、ゴール。
+Dialogue: 0,0:00:15.80,0:00:16.93,Default,,0000,0000,0000,,ここから出るぞ。
+Dialogue: 0,0:00:17.96,0:00:18.57,Default,,0000,0000,0000,,来い。
+Dialogue: 0,0:00:19.99,0:00:21.36,Default,,0000,0000,0000,,……うわあああああああん……あう。
+Dialogue: 0,0:00:22.93,0:00:23.37,Default,,0000,0000,0000,,ふぅ。
+Dialogue: 0,0:00:23.35,0:00:24.56,Default,,0000,0000,0000,,やあ、ルーファス！
+Dialogue: 0,0:00:24.57,0:00:25.41,Default,,0000,0000,0000,,バリー？
+Dialogue: 0,0:00:25.52,0:00:26.71,Default,,0000,0000,0000,,バリー……お前、ここで何してるんだ？
+Dialogue: 0,0:00:26.92,0:00:28.95,Default,,0000,0000,0000,,僕は君のファンだよ、忘れたのかい？
+Dialogue: 0,0:00:29.05,0:00:31.44,Default,,0000,0000,0000,,それに、へへへ、どこまでもついていくよ。
+Dialogue: 0,0:00:31.70,0:00:32.57,Default,,0000,0000,0000,,真面目な話、
+Dialogue: 0,0:00:32.64,0:00:35.63,Default,,0000,0000,0000,,君がここでやってることに、どれほど感動したか伝えたかったんだ。
+Dialogue: 0,0:00:35.66,0:00:37.23,Default,,0000,0000,0000,,最初はそりゃショックだったさ。
+Dialogue: 0,0:00:37.26,0:00:39.24,Default,,0000,0000,0000,,でも、ようやく理解したんだ！
+Dialogue: 0,0:00:39.31,0:00:41.15,Default,,0000,0000,0000,,素晴らしい、本当に！
+Dialogue: 0,0:00:41.22,0:00:43.93,Default,,0000,0000,0000,,実際、あれしか道はなかった。
+Dialogue: 0,0:00:44.20,0:00:45.83,Default,,0000,0000,0000,,天才的な計画だ。
+Dialogue: 0,0:00:45.93,0:00:48.05,Default,,0000,0000,0000,,哲学的な観点から見ても……
+Dialogue: 0,0:00:48.12,0:00:52.02,Default,,0000,0000,0000,,究極の利他的行為だよ……ワオ！
+Dialogue: 0,0:00:52.17,0:00:56.96,Default,,0000,0000,0000,,ルーファス、あの強情なルーファスが、ついに自分を変えたんだ……
+Dialogue: 0,0:00:56.97,0:00:57.78,Default,,0000,0000,0000,,あああああ！
+Dialogue: 0,0:00:58.35,0:00:58.70,Default,,0000,0000,0000,,へ。
+Dialogue: 0,0:00:59.22,0:01:06.28,Default,,0000,0000,0000,,へへへへへへへへへへへへへえええええええ！
