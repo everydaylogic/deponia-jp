@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.30,0:00:08.85,Default,,0000,0000,0000,,見捨てられ
+Dialogue: 0,0:00:08.85,0:00:10.75,Default,,0000,0000,0000,,粛清の瀬戸際
+Dialogue: 0,0:00:10.75,0:00:14.20,Default,,0000,0000,0000,,潜伏場所の捜索は中断された
+Dialogue: 0,0:00:14.40,0:00:16.05,Default,,0000,0000,0000,,彼女らはゴールの回転を止めた
+Dialogue: 0,0:00:16.05,0:00:17.80,Default,,0000,0000,0000,,魚雷イルカを使ってな
+Dialogue: 0,0:00:17.80,0:00:21.00,Default,,0000,0000,0000,,そしてついに希望の光が……俺は有頂天にはなれないが
+Dialogue: 0,0:00:21.05,0:00:22.75,Default,,0000,0000,0000,,なんて見事な腕前だ
+Dialogue: 0,0:00:22.75,0:00:24.60,Default,,0000,0000,0000,,彼は基地へと引きずられていった
+Dialogue: 0,0:00:24.60,0:00:27.80,Default,,0000,0000,0000,,今や最終ラウンドの鐘が鳴ろうとしている
+Dialogue: 0,0:00:27.90,0:00:29.75,Default,,0000,0000,0000,,決着の時は近い
+Dialogue: 0,0:00:29.75,0:00:31.45,Default,,0000,0000,0000,,さもなければ、俺の予感では
+Dialogue: 0,0:00:31.45,0:00:34.65,Default,,0000,0000,0000,,コーラスの連中が残業する羽目になるだろうな
+Dialogue: 0,0:00:35.00,0:00:37.85,Default,,0000,0000,0000,,ハッザー！　俺たちが……残業……？

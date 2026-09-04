@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.80,0:00:03.60,Default,,0000,0000,0000,,うわあああああああああああああああああ！
+Dialogue: 0,0:00:04.10,0:00:05.60,Default,,0000,0000,0000,,うわあああああああああああああああああ！
+Dialogue: 0,0:00:06.80,0:00:07.80,Default,,0000,0000,0000,,ごくごくごくごくごくごく！
+Dialogue: 0,0:00:08.30,0:00:09.70,Default,,0000,0000,0000,,ふあ、ふあ、ふあああああああああ……
+Dialogue: 0,0:00:10.40,0:00:11.10,Default,,0000,0000,0000,,おっと。
+Dialogue: 0,0:00:11.30,0:00:12.70,Default,,0000,0000,0000,,ああああああああああああああああああ！
+Dialogue: 0,0:00:13.10,0:00:16.00,Default,,0000,0000,0000,,うわあ！　うわあ！　うあああ！　あやあやあやあやあやあああ！
+Dialogue: 0,0:00:21.00,0:00:23.70,Default,,0000,0000,0000,,ワーフーーーーーーーーーーーーーーーー！

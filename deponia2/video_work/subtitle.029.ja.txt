@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:00.90,Default,,0000,0000,0000,,ゴール！
+Dialogue: 0,0:00:01.10,0:00:02.80,Default,,0000,0000,0000,,やめろやめろやめろ……
+Dialogue: 0,0:00:03.00,0:00:04.50,Default,,0000,0000,0000,,この大馬鹿野郎！
+Dialogue: 0,0:00:04.80,0:00:06.10,Default,,0000,0000,0000,,クレタス！　助けて！
+Dialogue: 0,0:00:06.50,0:00:09.20,Default,,0000,0000,0000,,持ちこたえてくれ……パニックになるな……今助けに行く……
+Dialogue: 0,0:00:09.80,0:00:10.50,Default,,0000,0000,0000,,……なんとかしてな。
+Dialogue: 0,0:00:11.20,0:00:13.90,Default,,0000,0000,0000,,自分がどれだけ被害を及ぼしているか、ようやく分かったか？
+Dialogue: 0,0:00:13.90,0:00:14.80,Default,,0000,0000,0000,,クレタス！
+Dialogue: 0,0:00:15.10,0:00:15.95,Default,,0000,0000,0000,,慌てるな！
+Dialogue: 0,0:00:16.05,0:00:17.00,Default,,0000,0000,0000,,助けてやる。
+Dialogue: 0,0:00:17.10,0:00:20.60,Default,,0000,0000,0000,,ここで君を殺して、みんなを喜ばせてやろうか？
+Dialogue: 0,0:00:20.80,0:00:22.90,Default,,0000,0000,0000,,今行くぞ、ゴール。頑張れ！
+Dialogue: 0,0:00:23.10,0:00:24.60,Default,,0000,0000,0000,,どこへ行くつもりだ？
+Dialogue: 0,0:00:24.80,0:00:25.80,Default,,0000,0000,0000,,向かってるって！
+Dialogue: 0,0:00:26.10,0:00:28.80,Default,,0000,0000,0000,,気をつけて！　ロープが今にも切れそう。
+Dialogue: 0,0:00:29.40,0:00:31.00,Default,,0000,0000,0000,,何をしてる？
+Dialogue: 0,0:00:31.10,0:00:33.50,Default,,0000,0000,0000,,そんな風に逃げられると本当に思ったのか？
+Dialogue: 0,0:00:33.80,0:00:35.30,Default,,0000,0000,0000,,バイバイだ、ルーファス。
+Dialogue: 0,0:00:35.30,0:00:36.40,Default,,0000,0000,0000,,クレタス、やめろ！
+Dialogue: 0,0:00:36.40,0:00:36.90,Default,,0000,0000,0000,,クレタス！
+Dialogue: 0,0:00:39.90,0:00:42.90,Default,,0000,0000,0000,,ああああああああああああああああああ！
+Dialogue: 0,0:00:46.20,0:00:47.10,Default,,0000,0000,0000,,おやまあ、俺は何てことをしてしまったんだ？
+Dialogue: 0,0:00:47.30,0:00:50.10,Default,,0000,0000,0000,,うわあああああああああああああああああ！

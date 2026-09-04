@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.20,0:00:08.90,Default,,0000,0000,0000,,悪意あるカルマ
+Dialogue: 0,0:00:08.90,0:00:10.60,Default,,0000,0000,0000,,ドラマのすぐそばで
+Dialogue: 0,0:00:10.60,0:00:14.00,Default,,0000,0000,0000,,カタルシス、彼女への新たな疑念が混乱を招く
+Dialogue: 0,0:00:14.20,0:00:15.80,Default,,0000,0000,0000,,そして彼女は彼を置き去りにした
+Dialogue: 0,0:00:15.80,0:00:18.60,Default,,0000,0000,0000,,まだ心は一つではないけれど
+Dialogue: 0,0:00:18.60,0:00:20.80,Default,,0000,0000,0000,,恐ろしいフィアンセとの再会を企てている
+Dialogue: 0,0:00:21.00,0:00:22.60,Default,,0000,0000,0000,,だが、もし時が来たと
+Dialogue: 0,0:00:22.60,0:00:24.40,Default,,0000,0000,0000,,ルーファスが辞める時だと思っているなら
+Dialogue: 0,0:00:24.40,0:00:25.70,Default,,0000,0000,0000,,ゴール目標前でそんなことを考えるなんて、君は奴を何も分かっちゃいない
+Dialogue: 0,0:00:25.70,0:00:27.50,Default,,0000,0000,0000,,英雄は勢いを増すものだ
+Dialogue: 0,0:00:27.60,0:00:31.40,Default,,0000,0000,0000,,世界終末の淵で
+Dialogue: 0,0:00:31.40,0:00:34.60,Default,,0000,0000,0000,,嵐に魅了され、奴らは全力を尽くすだろう
+Dialogue: 0,0:00:34.80,0:00:37.45,Default,,0000,0000,0000,,ハッザー！　全力を尽くすんだ

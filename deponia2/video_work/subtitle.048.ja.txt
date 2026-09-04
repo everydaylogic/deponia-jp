@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.90,Default,,0000,0000,0000,,トゥルトゥルトゥー。トゥルトゥルトゥルトゥルトゥー。ドゥム。パパパパッ。
+Dialogue: 0,0:00:05.00,0:00:05.60,Default,,0000,0000,0000,,あの……
+Dialogue: 0,0:00:05.70,0:00:09.40,Default,,0000,0000,0000,,それで全部じゃないわよね？
+Dialogue: 0,0:00:09.50,0:00:10.90,Default,,0000,0000,0000,,それは第一部だ。
+Dialogue: 0,0:00:11.00,0:00:12.40,Default,,0000,0000,0000,,三部作になると思うぜ。
+Dialogue: 0,0:00:12.50,0:00:14.90,Default,,0000,0000,0000,,なんだか……信じがたいわね。
+Dialogue: 0,0:00:15.00,0:00:17.50,Default,,0000,0000,0000,,ああ、信じられないほどクールだろ。
+Dialogue: 0,0:00:17.60,0:00:20.10,Default,,0000,0000,0000,,でも、もし本当にそんなことが起きたのなら……
+Dialogue: 0,0:00:20.20,0:00:22.30,Default,,0000,0000,0000,,……私はクレタスと一緒にエリジウムに向かっているはずじゃない？
+Dialogue: 0,0:00:22.40,0:00:24.30,Default,,0000,0000,0000,,それで、あなたは何をここでしているの？
+Dialogue: 0,0:00:24.40,0:00:25.90,Default,,0000,0000,0000,,クレタスはどこ？
+Dialogue: 0,0:00:26.00,0:00:27.90,Default,,0000,0000,0000,,どうして私は何も覚えていないの？
+Dialogue: 0,0:00:28.00,0:00:30.50,Default,,0000,0000,0000,,それから、こんなことを聞くのは心苦しいんだけど……

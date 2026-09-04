@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:04.90,Default,,0000,0000,0000,,彼女なら絶対に考え直す。
+Dialogue: 0,0:00:05.10,0:00:06.10,Default,,0000,0000,0000,,私を信じろ。
+Dialogue: 0,0:00:06.65,0:00:08.40,Default,,0000,0000,0000,,大使。時間です。
+Dialogue: 0,0:00:08.55,0:00:09.65,Default,,0000,0000,0000,,タワーの避難は完了しました。
+Dialogue: 0,0:00:09.90,0:00:11.65,Default,,0000,0000,0000,,直ちに出発しなければなりません。
+Dialogue: 0,0:00:11.90,0:00:14.60,Default,,0000,0000,0000,,分かった、分かったよ！
+Dialogue: 0,0:00:17.45,0:00:18.00,Default,,0000,0000,0000,,ぶるぶるぶる。
+Dialogue: 0,0:00:36.20,0:00:38.30,Default,,0000,0000,0000,,ところでゴール、君が戻ってくると分かってたよ。
+Dialogue: 0,0:00:39.10,0:00:40.35,Default,,0000,0000,0000,,いいえ、分かってなかったわ。
+Dialogue: 0,0:00:41.30,0:00:42.40,Default,,0000,0000,0000,,いや、分かってたね。
+Dialogue: 0,0:00:43.35,0:00:44.40,Default,,0000,0000,0000,,また出ていってもいいのよ？
+Dialogue: 0,0:00:44.70,0:00:45.90,Default,,0000,0000,0000,,だが、君はそうしない。
+Dialogue: 0,0:00:47.00,0:00:48.80,Default,,0000,0000,0000,,アルガスの計画は狂い
+Dialogue: 0,0:00:48.80,0:00:50.55,Default,,0000,0000,0000,,そして物語は幕を閉じる
+Dialogue: 0,0:00:50.55,0:00:53.45,Default,,0000,0000,0000,,君も少しは楽しんだだろ？　認めなよ
+Dialogue: 0,0:00:53.65,0:00:55.55,Default,,0000,0000,0000,,今や君も理性を手に入れた
+Dialogue: 0,0:00:55.55,0:00:56.70,Default,,0000,0000,0000,,エゴなんて捨てちまって
+Dialogue: 0,0:00:56.70,0:01:00.05,Default,,0000,0000,0000,,公共の利益と天秤にかけな
+Dialogue: 0,0:01:00.40,0:01:01.90,Default,,0000,0000,0000,,なぜなら、核心に迫るには
+Dialogue: 0,0:01:01.90,0:01:03.45,Default,,0000,0000,0000,,度胸（コホネス）が必要だからさ
+Dialogue: 0,0:01:03.45,0:01:07.10,Default,,0000,0000,0000,,それとカモノハシに、敵対する地下組織の会員証……
+Dialogue: 0,0:01:07.10,0:01:08.80,Default,,0000,0000,0000,,組織のな。だから荷物を解きなよ
+Dialogue: 0,0:01:08.80,0:01:10.60,Default,,0000,0000,0000,,今さら俺をクビにするには
+Dialogue: 0,0:01:10.60,0:01:13.95,Default,,0000,0000,0000,,遅すぎるし、第一俺はどこに住めばいい？
+Dialogue: 0,0:01:14.20,0:01:16.95,Default,,0000,0000,0000,,ハッザー！　うんと遠くだといいな
