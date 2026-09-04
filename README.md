@@ -1,5 +1,8 @@
 # Deponia 日本語化手順書
 
+![日本語化後のゲーム画面](images/screenshot1.jpg)
+![日本語化後のゲーム画面](images/screenshot2.jpg)
+
 ## 0. この文書について
 
 Crazy Unit さん（以下クレユニさん）が公開しているツールを使って、
