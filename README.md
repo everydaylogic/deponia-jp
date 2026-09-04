@@ -39,9 +39,10 @@ Crazy Unit さん（以下クレユニさん）が公開しているツールを
 | VIS KEY 解析ツール | `anb.zip` | https://oezmen.eu/gameresources/ | Complete Journey の VIS KEY 取得 |
 | libwebp | `libwebp-1.6.0-windows-x64.zip` | https://developers.google.com/speed/webp/docs/precompiled?hl=ja | 「実行形式ファイル詰め合わせ」で使えなかったものの補完 |
 | MKVToolNix<br>**Portable (64-bit) 版** | `mkvtoolnix-64-bit-99.0.7z` | https://mkvtoolnix.download/downloads.html | ムービー字幕の差し替え（`mkvextract.exe` / `mkvmerge.exe` を使用） |
-| Deponia 日本語化データ | `deponia_ja` | （★入手先を記載） | 翻訳データ・バッチ・スクリプト一式 |
+| Deponia 日本語化データ | `deponia_ja` | https://github.com/everydaylogic/deponia-jp | 翻訳データ・バッチ・スクリプト一式 |
 
-> ★ `deponia_ja` は本手順書に付属する翻訳データ一式です。入手先を記入してください。
+> `deponia_ja` は本手順書に付属する翻訳データ一式です。
+> 上記リポジトリの Releases から最新版をダウンロードしてください。
 
 ### 1.2 フォント
 
