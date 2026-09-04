@@ -1,0 +1,23 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:00:07.01,Default,,0000,0000,0000,,「さてと、手紙でも読んでみるか。」
+Dialogue: 0,0:00:07.50,0:00:11.02,Default,,0000,0000,0000,,「拝啓…」はいはい、わかったよ…
+Dialogue: 0,0:00:13.00,0:00:16.00,Default,,0000,0000,0000,,「～をお知らせできて光栄です…」だの何だの…
+Dialogue: 0,0:00:16.01,0:00:18.02,Default,,0000,0000,0000,,本題に入れよ、なあ？
+Dialogue: 0,0:00:18.03,0:00:22.80,Default,,0000,0000,0000,,「残念ながら、ご注文いただいたネジの配送は遅れる見込みで…」
+Dialogue: 0,0:00:23.00,0:00:27.01,Default,,0000,0000,0000,,「同封のリベット一袋分の引換券をご利用ください。」
+Dialogue: 0,0:00:27.01,0:00:30.00,Default,,0000,0000,0000,,「ご不便をおかけしたことをお詫び申し上げます。」
+Dialogue: 0,0:00:30.01,0:00:31.01,Default,,0000,0000,0000,,「敬具…」
+Dialogue: 0,0:00:32.00,0:00:33.00,Default,,0000,0000,0000,,ちょっと待て。
+Dialogue: 0,0:00:33.01,0:00:34.01,Default,,0000,0000,0000,,ネジ？

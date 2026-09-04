@@ -1,0 +1,41 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.70,0:00:14.20,Default,,0000,0000,0000,,よし。
+Dialogue: 0,0:00:14.25,0:00:15.10,Default,,0000,0000,0000,,コース設定完了だ。
+Dialogue: 0,0:00:15.15,0:00:18.00,Default,,0000,0000,0000,,次の目的地は、浮遊ブラックマーケット。
+Dialogue: 0,0:00:18.00,0:00:19.40,Default,,0000,0000,0000,,いいね。最高。
+Dialogue: 0,0:00:20.00,0:00:21.00,Default,,0000,0000,0000,,結構だ。
+Dialogue: 0,0:00:21.80,0:00:23.00,Default,,0000,0000,0000,,大丈夫か、ルーファス？
+Dialogue: 0,0:00:23.45,0:00:25.00,Default,,0000,0000,0000,,なんだか疲れ切っているようだが。
+Dialogue: 0,0:00:25.05,0:00:28.45,Default,,0000,0000,0000,,塔の上で何があったのか、まだ最後まで聞いてないな。
+Dialogue: 0,0:00:28.50,0:00:32.00,Default,,0000,0000,0000,,詮索するつもりはないが…
+Dialogue: 0,0:00:33.00,0:00:34.20,Default,,0000,0000,0000,,デポニアは安全なのか？
+Dialogue: 0,0:00:37.60,0:00:39.50,Default,,0000,0000,0000,,それはもう、俺の手の及ぶところじゃないさ。
+Dialogue: 0,0:00:41.30,0:00:42.80,Default,,0000,0000,0000,,さあ驚いた顔を見せてくれ
+Dialogue: 0,0:00:42.85,0:00:44.60,Default,,0000,0000,0000,,脳内インプラントのカートリッジは
+Dialogue: 0,0:00:44.65,0:00:46.20,Default,,0000,0000,0000,,交換されなかった
+Dialogue: 0,0:00:46.25,0:00:48.10,Default,,0000,0000,0000,,それも全て計画の内さ。
+Dialogue: 0,0:00:48.10,0:00:49.75,Default,,0000,0000,0000,,救われたのは
+Dialogue: 0,0:00:49.80,0:00:51.50,Default,,0000,0000,0000,,彼が忌み嫌っていた世界
+Dialogue: 0,0:00:51.50,0:00:53.20,Default,,0000,0000,0000,,誰が予想しただろう、君だって
+Dialogue: 0,0:00:53.25,0:00:54.80,Default,,0000,0000,0000,,きっと同じことをしたはずだ。
+Dialogue: 0,0:00:54.85,0:00:56.50,Default,,0000,0000,0000,,だからもし君がまだ俺に
+Dialogue: 0,0:00:57.00,0:00:58.25,Default,,0000,0000,0000,,バカげた雑用を押し付けたいなら
+Dialogue: 0,0:00:58.30,0:01:00.25,Default,,0000,0000,0000,,皿洗いやら
+Dialogue: 0,0:01:00.30,0:01:01.50,Default,,0000,0000,0000,,ゴミ出しやらをね
+Dialogue: 0,0:01:01.55,0:01:03.80,Default,,0000,0000,0000,,それは君が俺の話を
+Dialogue: 0,0:01:03.95,0:01:05.25,Default,,0000,0000,0000,,ちゃんと聞いてなかった証拠だ
+Dialogue: 0,0:01:05.35,0:01:07.55,Default,,0000,0000,0000,,核心にあるメッセージは…その…ええと…
+Dialogue: 0,0:01:07.60,0:01:08.85,Default,,0000,0000,0000,,ハッザー！ …それが掟だ。
+Dialogue: 0,0:01:08.90,0:01:11.80,Default,,0000,0000,0000,,ハッザー！ コーラス隊は最高だ！

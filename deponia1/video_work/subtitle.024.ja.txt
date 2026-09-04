@@ -1,0 +1,30 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.80,0:00:08.80,Default,,0000,0000,0000,,歴史家たちは喉から手が出るほど
+Dialogue: 0,0:00:08.85,0:00:10.50,Default,,0000,0000,0000,,解読したがっている
+Dialogue: 0,0:00:10.55,0:00:12.00,Default,,0000,0000,0000,,どうやら欠落しているらしい
+Dialogue: 0,0:00:12.05,0:00:13.50,Default,,0000,0000,0000,,ここのテキストの一節を。
+Dialogue: 0,0:00:13.55,0:00:15.15,Default,,0000,0000,0000,,傷や痣ができた理由は
+Dialogue: 0,0:00:15.20,0:00:17.50,Default,,0000,0000,0000,,未だに分かっていない
+Dialogue: 0,0:00:17.55,0:00:18.55,Default,,0000,0000,0000,,ゴールにまつわる
+Dialogue: 0,0:00:18.60,0:00:20.10,Default,,0000,0000,0000,,その後に現れたものだ。
+Dialogue: 0,0:00:20.15,0:00:22.10,Default,,0000,0000,0000,,だがそんなこと気にする必要はない
+Dialogue: 0,0:00:22.15,0:00:24.00,Default,,0000,0000,0000,,ついに彼はやり遂げたのだから
+Dialogue: 0,0:00:24.05,0:00:26.00,Default,,0000,0000,0000,,彼女をほぼ無傷で
+Dialogue: 0,0:00:26.05,0:00:27.10,Default,,0000,0000,0000,,待ち合わせ場所まで運ぶことを。
+Dialogue: 0,0:00:27.15,0:00:29.10,Default,,0000,0000,0000,,見返りなんて求めちゃいない
+Dialogue: 0,0:00:29.15,0:00:31.05,Default,,0000,0000,0000,,報酬以外はな、だがまあ
+Dialogue: 0,0:00:31.10,0:00:32.50,Default,,0000,0000,0000,,全ては文脈次第だ
+Dialogue: 0,0:00:32.55,0:00:34.50,Default,,0000,0000,0000,,だから物語を進めようぜ。
+Dialogue: 0,0:00:34.55,0:00:37.60,Default,,0000,0000,0000,,ハッザー！ 物語を進めよう！
